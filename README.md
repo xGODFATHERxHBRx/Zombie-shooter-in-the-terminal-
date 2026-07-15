@@ -11,5 +11,5 @@ A terminal-based zombie shooter game written in C. Fight waves of zombies in sin
 
 ## ⚡ One-Line Install
 
-`curl -sSL https://raw.githubusercontent.com/xGODFATHERxHBRx/Zombie-shooter-in-the-terminal-/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/xGODFATHERxHBRx/Zombie-shooter-in-the-terminal-/main/install.sh | bash
 
