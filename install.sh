@@ -7,7 +7,7 @@ set -e
 echo "🧟 Installing Zombie Shooter..."
 
 # Download the .deb package
-wget -O /tmp/zombie-shooter.deb https://github.com/xGODFATHERxHBRx/zombie-shooter/raw/main/zombie-shooter_1.0_amd64.deb
+wget -O /tmp/zombie-shooter.deb https://github.com/xGODFATHERxHBRx/Zombie-shooter-in-the-terminal-/raw/main/zombie-shooter_1.0_amd64.deb
 
 # Install it
 sudo apt install /tmp/zombie-shooter.deb -y
